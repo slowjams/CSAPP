@@ -1,0 +1,1 @@
+C2: printf(" %.2x", start[i])  can hex has precision/double(int) type hex?

@@ -1,0 +1,3 @@
+﻿  main.c
+C:\zIT Study\zTextbooks\CSAPP 3rd\zSolutions\zMiscellaneous\ECF\ECF\main.c(7,10): warning C4013: 'write' undefined; assuming extern returning int
+  ECF.vcxproj -> C:\zIT Study\zTextbooks\CSAPP 3rd\zSolutions\zMiscellaneous\ECF\Debug\ECF.exe

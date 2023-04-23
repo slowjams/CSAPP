@@ -1,0 +1,7 @@
+﻿  Main.c
+C:\zIT Study\zTextbooks\Computer Systems - A Programmer's Perspective\zSolutions\zzLabs\zzVS Projects\Lab1-DataLab\Lab1-DataLab\Main.c(87,20): warning C4804: '~': unsafe use of type 'bool' in operation
+C:\zIT Study\zTextbooks\Computer Systems - A Programmer's Perspective\zSolutions\zzLabs\zzVS Projects\Lab1-DataLab\Lab1-DataLab\Main.c(87,43): warning C4804: '~': unsafe use of type 'bool' in operation
+C:\zIT Study\zTextbooks\Computer Systems - A Programmer's Perspective\zSolutions\zzLabs\zzVS Projects\Lab1-DataLab\Lab1-DataLab\Main.c(181,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\zIT Study\zTextbooks\Computer Systems - A Programmer's Perspective\zSolutions\zzLabs\zzVS Projects\Lab1-DataLab\Lab1-DataLab\Main.c(182,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\zIT Study\zTextbooks\Computer Systems - A Programmer's Perspective\zSolutions\zzLabs\zzVS Projects\Lab1-DataLab\Lab1-DataLab\Main.c(183,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab1-DataLab.vcxproj -> C:\zIT Study\zTextbooks\Computer Systems - A Programmer's Perspective\zSolutions\zzLabs\zzVS Projects\Lab1-DataLab\x64\Debug\Lab1-DataLab.exe

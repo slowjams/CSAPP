@@ -1,0 +1,27 @@
+1.C2 p65  mov 0xfffffec8(%ebp),%eax, the book says  any value consisting of eight hexadecimal digits beginning
+with one of the digits 8 through f represents a negative number, but what if I want to let it represent a unsigned number?
+
+2.C2 p77 problem 2.25 come back to see why unsigned -1 out of range is Umax
+
+3.C3 P217 why s must be 1, 2, 4, or 8?
+
+4.C3 C3 P244 after Processor Architecture then come back to review "Aside What do the instructions rep and repz do?"
+
+z1. char greetingb[8] = "Hello";  when element less than declare,  what's the underlying representation?
+
+
+
+Review: (learn everything and come back to get a better understanding)
+p91. Security vulnerability in the XDR library
+
+
+Q-Another type of cache memory, known
+as a translation look-aside buffer, or TLB, provides a fast translation from virtual
+to physical addresses. Using a combination of TLBs and caches, it is indeed possible to read instructions and read or write data in a single clock cycle most of
+the time// but cache require 3,4 cyclyes, how could it that most of time it is only one cycle?
+----------------Important--------------------------
+Q-Why C#/Java use intermediate language to complie once run everywhere? can't we just copt the assembly code?
+Q-P739  must know the programming technique of stderr in  
+   fprintf(stderr, "%s\n", dlerror());
+       and
+   void *dlopen(const char *filename, int flag); // Returns: pointer to handle if OK, NULL on error, butn how come it is possible to return two different types?
